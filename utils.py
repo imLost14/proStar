@@ -1,0 +1,3 @@
+import collections
+import read_star
+def get_raiting
